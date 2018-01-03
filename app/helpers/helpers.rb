@@ -1,3 +1,3 @@
-require 'sinatra/Base'
+require 'sinatra/base'
 class Helpers
 end
